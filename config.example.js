@@ -1,7 +1,4 @@
-// Copy this file to config.js and fill in your Supabase project details.
-// Get these from Supabase project settings → API.
-
 window.APP_CONFIG = {
-  SUPABASE_URL: "https://YOUR-PROJECT-ref.supabase.co",
-  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...", // anon public
+  SUPABASE_URL: "https://yvdnukdvzscaopzsjooa.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2ZG51a2R2enNjYW9wenNqb29hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg0NTEzMDAsImV4cCI6MjA3NDAyNzMwMH0.rn34BZ5O_Jph4ZYTFSD7rt-MyVVPWUkGCbhlVuuXpxo",
 };
